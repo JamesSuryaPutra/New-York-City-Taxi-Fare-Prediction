@@ -15,11 +15,13 @@ RMSE = √−−−−−−−−−−−−1/n∑i=1n(y^i−yi)2
 where yi is the ith observation and y^i is the prediction for that observation. 
 
 <Example 1>
+
 Suppose we have one observation, with an actual value of 12.5 and a prediction of 12.5 (good job!). The RMSE will be:
 
 RMSEexample1 = √−−−−−−−−−−−−−11(12.5−12.5)2=0
 
 <Example 2>
+
 We'll add another data point. Your prediction for the second data point is 11.0 and the actual value is 14.0. The RMSE will be:
 
 RMSEexample2 = √−−−−−−−−−−−−−−−−−−−−−−−−−−−12((12.5−12.5)2+(11.0−14.0)2)=92−−√≈2.12
