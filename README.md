@@ -18,9 +18,11 @@ where yi is the ith observation and y^i is the prediction for that observation.
 
 ## Example 1
 Suppose we have one observation, with an actual value of 12.5 and a prediction of 12.5 (good job!). The RMSE will be:
+
 ![rmse_1](https://github.com/JamesSuryaPutra/New-York-City-Taxi-Fare-Prediction/assets/155945814/bff371c8-8999-4797-bd84-5ed5952565ba)
 
 ## Example 2
 We'll add another data point. Your prediction for the second data point is 11.0 and the actual value is 14.0. The RMSE will be:
+
 ![rmse_2](https://github.com/JamesSuryaPutra/New-York-City-Taxi-Fare-Prediction/assets/155945814/5ca94c11-b234-4f3d-9e65-3b6e8fb68a47)
 
