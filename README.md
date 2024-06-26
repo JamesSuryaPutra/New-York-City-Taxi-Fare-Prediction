@@ -10,7 +10,9 @@ To learn how to handle large datasets with ease and solve this problem using Ten
 The evaluation metric for this competition is the root mean-squared error or RMSE. RMSE measures the difference between the predictions of a model, and the corresponding ground truth. A large RMSE is equivalent to a large average error, so smaller values of RMSE are better. One nice property of RMSE is that the error is given in the units being measured, so you can tell very directly how incorrect the model might be on unseen data.
 
 RMSE is given by:
+
 ![rmse_0](https://github.com/JamesSuryaPutra/New-York-City-Taxi-Fare-Prediction/assets/155945814/aebf99cb-d3b4-49ee-aad5-518a24b3cb71)
+
 
 where yi is the ith observation and y^i is the prediction for that observation. 
 
